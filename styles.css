@@ -1,0 +1,140 @@
+/*********************************************** 
+                Google fonts
+***********************************************/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Plus+Jakarta+Sans:wght@700&display=swap');
+
+
+/*********************************************** 
+                Default CSS
+***********************************************/
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    overflow-x: hidden;
+    background: #EFFEFF;
+}
+
+/* Theme Css */
+
+
+  
+.slides-container {
+    display: flex;
+    width: calc(100% * 4); /* Assuming you have 4 slides, adjust the value if you have a different number */
+    overflow-x: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+.multipletab_slide-top {
+    /* flex: 0 0 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 132px;
+    margin-top: 55px;
+}
+
+.multipletab_slide-top-left p.msc_core {
+    font-size: 20px;
+    color: #1C1C1C;
+    line-height: normal;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.multipletab_slide-top-left h2 {
+    color: #1C1C1C;
+    font-family: Plus Jakarta Sans;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 16px;
+}
+
+.multipletab_slide-top-left p{
+    color: #1C1C1C;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 28px;
+}
+
+.multipletab_slide-area-container {
+    width: 1316px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.multipletab_slide-top-right img {
+    width: 533px;
+    height: 476px;
+}
+
+/* multipletab_slide-bottom */
+
+.multipletab_slide-bottom {
+
+}
+
+.multipletab_slide-arrow {
+    display: flex;
+    gap: 33px;
+}
+
+.multipletab_slide-arrow img {
+    width: 17px;
+    height: 26px;
+    cursor: pointer;
+}
+
+.border_line {
+    border: 1px solid #B4B4B4;
+    margin: 26px 0;
+}
+
+.multipletab_slide-text {
+    display: flex;
+    column-gap: 22px;
+}
+
+.multipletab_slide-text p{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.5px;
+    display: flex;
+    gap: 14px;
+    cursor: pointer;
+}
+
+.mstp_active {
+    border-radius: 5px;
+    background: #C2E4E5;
+    padding: 5px;
+}
