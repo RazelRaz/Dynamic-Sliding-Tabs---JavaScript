@@ -22,7 +22,7 @@ Dynamic Sliding Tabs is a simple and customizable tabbed content slider built wi
 
 ## Demo
 
-You can view a live demo of the project [here](link_to_live_demo).
+You can view a live demo of the project [here](https://razelraz.github.io/Dynamic-Sliding-Tabs---JavaScript/).
 
 ## Contributions
 
