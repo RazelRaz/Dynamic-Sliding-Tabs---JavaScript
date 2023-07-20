@@ -32,11 +32,4 @@ Contributions to the project are welcome! If you find any issues or have suggest
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
-## Acknowledgments
-
-Special thanks to [Your Name](https://github.com/yourusername) for inspiration and guidance.
-
----
-
-Feel free to modify the content above to include any specific details about your project. Add the necessary links, images, and other information to make your README file informative and user-friendly. Good luck with your project!
 
