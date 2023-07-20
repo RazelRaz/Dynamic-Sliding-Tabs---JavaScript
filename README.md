@@ -1,6 +1,5 @@
 # Dynamic Sliding Tabs
-
-![Project Preview](https://prnt.sc/wxyvaU1leYg1)
+![Project Preview](https://github.com/RazelRaz/Dynamic-Sliding-Tabs---JavaScript/assets/48205844/7da5bae6-55a7-4a53-97e3-76aa2cdb557c)
 
 ## Description
 
