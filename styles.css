@@ -138,3 +138,44 @@ body {
     background: #C2E4E5;
     padding: 5px;
 }
+
+
+
+/*************************************************
+ Media Queries -  Medium And Small Screens 
+ *************************************************/
+ @media screen and (max-width: 1024px) {
+
+    .multipletab_slide-top {
+        padding: 0 30px;
+        gap: 70px;
+    }
+
+    .multipletab_slide-bottom {
+        padding: 0 30px;
+    }
+
+ }
+
+
+/*************************************************
+ Media Queries -  Small Screens 
+*************************************************/
+ @media screen and (max-width: 600px) {
+    
+    .multipletab_slide-top {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .multipletab_slide-top-left {
+        text-align: center;
+    }
+
+    .multipletab_slide-text {
+        flex-direction: column;
+    }
+
+
+ }
