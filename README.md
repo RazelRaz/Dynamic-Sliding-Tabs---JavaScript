@@ -1,6 +1,6 @@
 # Dynamic Sliding Tabs
 
-![Project Preview](link_to_preview_https://prnt.sc/wxyvaU1leYg1)
+![Project Preview](https://prnt.sc/wxyvaU1leYg1)
 
 ## Description
 
